@@ -12,6 +12,7 @@ description = 'JODConverter - Sample Web Application'
 ext {
     commonsFileUploadVersion = '1.4'
     springBootVersion = '2.7.3'
+    set('snakeyaml.version','1.32')
 }
 
 java {

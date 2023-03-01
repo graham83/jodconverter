@@ -11,6 +11,7 @@ description = 'JODConverter - Sample Spring Boot Web Application'
 
 ext {
     commonsIoVersion = '2.11.0'
+    set('snakeyaml.version','1.32')
 }
 
 java {
